@@ -1,0 +1,32 @@
+#include<iostream>
+#include<fstream>
+#include<string>
+using namespace std;
+
+
+int main(){
+//	char a[50];
+//	ofstream file("file 1");
+//	cout<<"Enter the data : ";
+//	//cin.getline(a,45);
+//	file<<a;
+//	file.close();
+	
+//	char a[50];
+//	ifstream ifs("file 1");
+//	ifs>>a;
+//	cout<<"your data is : "<<a<<endl;
+	
+	// in bianry form how to read the file and write the file!!!
+//	char zz[50];
+//	ofstream folder("fill.txt",ios::binary);
+//	cout<<"Enter the data : ";
+//	cin>>zz;
+//	folder.write((char *)&zz,sizeof(zz));
+//	folder.close();
+	char zz[20];
+	ifstream foo("fill.txt",ios::binary);
+	foo.read((char *)&zz,sizeof(zz));
+	cout<<"your data is  :"<<zz;
+	foo.close();
+}
