@@ -1,0 +1,679 @@
+2021-04-24 10:06:03,809:DEBUG:Add: 20 + 10 = 30
+2021-04-24 10:06:03,810:DEBUG:Sub: 20 - 10 = 10
+2021-04-24 10:06:03,810:DEBUG:Mul: 20 * 10 = 200
+2021-04-24 10:06:03,810:DEBUG:Div: 20 / 10 = 2.0
+2021-04-24 10:08:50,060:DEBUG:diff parser start
+2021-04-24 10:08:50,060:DEBUG:line_lengths old: 1; new: 2
+2021-04-24 10:08:50,060:DEBUG:-> code[replace] old[1:1] new[1:2]
+2021-04-24 10:08:50,061:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:50,061:DEBUG:diff parser end
+2021-04-24 10:08:50,114:DEBUG:pickle loaded: /home/iffishells/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2021-04-24 10:08:50,154:DEBUG:pickle loaded: /home/iffishells/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2021-04-24 10:08:50,184:DEBUG:diff parser start
+2021-04-24 10:08:50,184:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:50,184:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:50,185:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:50,185:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:50,185:DEBUG:diff parser end
+2021-04-24 10:08:50,317:DEBUG:diff parser start
+2021-04-24 10:08:50,317:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:50,317:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:50,317:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:50,318:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:50,318:DEBUG:diff parser end
+2021-04-24 10:08:51,053:DEBUG:diff parser start
+2021-04-24 10:08:51,053:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:51,053:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:51,054:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:51,054:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:51,054:DEBUG:diff parser end
+2021-04-24 10:08:51,183:DEBUG:diff parser start
+2021-04-24 10:08:51,183:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:51,183:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:51,184:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:51,184:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:51,184:DEBUG:diff parser end
+2021-04-24 10:08:51,289:DEBUG:diff parser start
+2021-04-24 10:08:51,290:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:51,290:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:51,290:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:51,290:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:51,290:DEBUG:diff parser end
+2021-04-24 10:08:51,456:DEBUG:diff parser start
+2021-04-24 10:08:51,456:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:51,456:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:51,456:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:51,456:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:51,457:DEBUG:diff parser end
+2021-04-24 10:08:56,889:DEBUG:diff parser start
+2021-04-24 10:08:56,889:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:56,889:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:56,889:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:56,890:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:56,890:DEBUG:diff parser end
+2021-04-24 10:08:57,127:DEBUG:diff parser start
+2021-04-24 10:08:57,127:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:57,127:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:57,127:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:57,128:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:57,128:DEBUG:diff parser end
+2021-04-24 10:08:57,298:DEBUG:diff parser start
+2021-04-24 10:08:57,299:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:57,299:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:57,300:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:57,301:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:57,301:DEBUG:diff parser end
+2021-04-24 10:08:58,768:DEBUG:diff parser start
+2021-04-24 10:08:58,768:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:58,769:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:58,769:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:58,770:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:58,770:DEBUG:diff parser end
+2021-04-24 10:08:58,872:DEBUG:diff parser start
+2021-04-24 10:08:58,872:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:58,872:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:58,873:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:58,873:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:58,873:DEBUG:diff parser end
+2021-04-24 10:08:58,993:DEBUG:diff parser start
+2021-04-24 10:08:58,994:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:58,994:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:58,994:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:58,994:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:58,994:DEBUG:diff parser end
+2021-04-24 10:08:59,150:DEBUG:diff parser start
+2021-04-24 10:08:59,151:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:59,151:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:59,151:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:59,151:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:59,151:DEBUG:diff parser end
+2021-04-24 10:08:59,946:DEBUG:diff parser start
+2021-04-24 10:08:59,946:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:08:59,946:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:08:59,947:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:08:59,948:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:08:59,948:DEBUG:diff parser end
+2021-04-24 10:09:01,274:DEBUG:diff parser start
+2021-04-24 10:09:01,274:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:01,275:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:01,276:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:01,277:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:01,277:DEBUG:diff parser end
+2021-04-24 10:09:01,439:DEBUG:diff parser start
+2021-04-24 10:09:01,439:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:01,439:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:01,440:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:01,441:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:01,441:DEBUG:diff parser end
+2021-04-24 10:09:01,638:DEBUG:diff parser start
+2021-04-24 10:09:01,638:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:01,638:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:01,638:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:01,639:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:01,639:DEBUG:diff parser end
+2021-04-24 10:09:03,854:DEBUG:diff parser start
+2021-04-24 10:09:03,854:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:03,854:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:03,854:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:03,855:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:03,855:DEBUG:diff parser end
+2021-04-24 10:09:04,509:DEBUG:diff parser start
+2021-04-24 10:09:04,510:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:04,510:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:04,510:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:04,510:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:04,511:DEBUG:diff parser end
+2021-04-24 10:09:04,698:DEBUG:diff parser start
+2021-04-24 10:09:04,698:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:04,698:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:04,699:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:04,699:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:04,699:DEBUG:diff parser end
+2021-04-24 10:09:05,864:DEBUG:diff parser start
+2021-04-24 10:09:05,864:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:05,864:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:05,865:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:05,866:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:05,866:DEBUG:diff parser end
+2021-04-24 10:09:06,056:DEBUG:diff parser start
+2021-04-24 10:09:06,056:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:06,056:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:06,057:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:06,057:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:06,057:DEBUG:diff parser end
+2021-04-24 10:09:06,327:DEBUG:diff parser start
+2021-04-24 10:09:06,327:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:06,328:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:06,328:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:06,329:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:06,329:DEBUG:diff parser end
+2021-04-24 10:09:06,511:DEBUG:diff parser start
+2021-04-24 10:09:06,511:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:06,511:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:06,512:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:06,512:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:06,512:DEBUG:diff parser end
+2021-04-24 10:09:07,183:DEBUG:diff parser start
+2021-04-24 10:09:07,183:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:07,183:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:07,184:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:07,184:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:07,184:DEBUG:diff parser end
+2021-04-24 10:09:07,322:DEBUG:diff parser start
+2021-04-24 10:09:07,323:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:07,323:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:07,323:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:07,323:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:07,323:DEBUG:diff parser end
+2021-04-24 10:09:07,538:DEBUG:diff parser start
+2021-04-24 10:09:07,539:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:07,539:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:07,539:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:07,539:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:07,540:DEBUG:diff parser end
+2021-04-24 10:09:09,516:DEBUG:diff parser start
+2021-04-24 10:09:09,517:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:09,517:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:09,518:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:09,518:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:09,518:DEBUG:diff parser end
+2021-04-24 10:09:09,621:DEBUG:diff parser start
+2021-04-24 10:09:09,621:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:09,621:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:09,621:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:09,622:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:09,622:DEBUG:diff parser end
+2021-04-24 10:09:09,758:DEBUG:diff parser start
+2021-04-24 10:09:09,758:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:09,758:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:09,759:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:09,759:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:09,759:DEBUG:diff parser end
+2021-04-24 10:09:10,339:DEBUG:diff parser start
+2021-04-24 10:09:10,340:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:10,340:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:10,341:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:10,341:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:10,341:DEBUG:diff parser end
+2021-04-24 10:09:11,722:DEBUG:diff parser start
+2021-04-24 10:09:11,722:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:11,723:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:11,723:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:11,723:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:11,724:DEBUG:diff parser end
+2021-04-24 10:09:11,806:DEBUG:diff parser start
+2021-04-24 10:09:11,806:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:11,806:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:11,807:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:11,807:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:11,807:DEBUG:diff parser end
+2021-04-24 10:09:11,921:DEBUG:diff parser start
+2021-04-24 10:09:11,921:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:11,921:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:11,921:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:11,921:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:11,921:DEBUG:diff parser end
+2021-04-24 10:09:12,051:DEBUG:diff parser start
+2021-04-24 10:09:12,051:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:12,052:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:12,052:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:12,052:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:12,052:DEBUG:diff parser end
+2021-04-24 10:09:17,583:DEBUG:diff parser start
+2021-04-24 10:09:17,584:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:17,584:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:17,584:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:17,584:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:17,585:DEBUG:diff parser end
+2021-04-24 10:09:17,719:DEBUG:diff parser start
+2021-04-24 10:09:17,719:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:17,719:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:17,720:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:17,720:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:17,720:DEBUG:diff parser end
+2021-04-24 10:09:17,843:DEBUG:diff parser start
+2021-04-24 10:09:17,844:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:17,844:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:17,844:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:17,845:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:17,845:DEBUG:diff parser end
+2021-04-24 10:09:17,932:DEBUG:diff parser start
+2021-04-24 10:09:17,932:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:17,932:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:17,932:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:17,932:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:17,932:DEBUG:diff parser end
+2021-04-24 10:09:18,114:DEBUG:diff parser start
+2021-04-24 10:09:18,114:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:18,115:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:18,115:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:18,115:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:18,115:DEBUG:diff parser end
+2021-04-24 10:09:21,226:DEBUG:diff parser start
+2021-04-24 10:09:21,226:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:21,226:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:21,227:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:21,227:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:21,228:DEBUG:diff parser end
+2021-04-24 10:09:22,068:DEBUG:diff parser start
+2021-04-24 10:09:22,068:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:22,068:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:22,069:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:22,070:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:22,070:DEBUG:diff parser end
+2021-04-24 10:09:22,167:DEBUG:diff parser start
+2021-04-24 10:09:22,167:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:22,167:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:22,168:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:22,168:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:22,168:DEBUG:diff parser end
+2021-04-24 10:09:22,284:DEBUG:diff parser start
+2021-04-24 10:09:22,284:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:22,285:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:22,285:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:22,286:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:22,286:DEBUG:diff parser end
+2021-04-24 10:09:22,419:DEBUG:diff parser start
+2021-04-24 10:09:22,419:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:09:22,419:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:22,419:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:09:22,419:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:09:22,419:DEBUG:diff parser end
+2021-04-24 10:09:24,770:DEBUG:diff parser start
+2021-04-24 10:09:24,771:DEBUG:line_lengths old: 2; new: 4
+2021-04-24 10:09:24,772:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:09:24,773:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:24,773:DEBUG:-> code[replace] old[2:2] new[2:4]
+2021-04-24 10:09:24,773:DEBUG:diff parser end
+2021-04-24 10:09:24,847:DEBUG:pickle loaded: /home/iffishells/anaconda3/lib/python3.8/typing.py
+2021-04-24 10:09:24,856:DEBUG:pickle loaded: /home/iffishells/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2021-04-24 10:09:25,277:DEBUG:diff parser start
+2021-04-24 10:09:25,277:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:25,277:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:25,279:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:25,279:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:25,279:DEBUG:diff parser end
+2021-04-24 10:09:25,411:DEBUG:diff parser start
+2021-04-24 10:09:25,411:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:25,411:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:25,412:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:25,412:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:25,412:DEBUG:diff parser end
+2021-04-24 10:09:25,532:DEBUG:diff parser start
+2021-04-24 10:09:25,532:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:25,532:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:25,533:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:25,533:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:25,533:DEBUG:diff parser end
+2021-04-24 10:09:25,651:DEBUG:diff parser start
+2021-04-24 10:09:25,651:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:25,652:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:25,652:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:25,653:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:25,653:DEBUG:diff parser end
+2021-04-24 10:09:25,779:DEBUG:diff parser start
+2021-04-24 10:09:25,780:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:25,780:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:25,782:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:25,783:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:25,783:DEBUG:diff parser end
+2021-04-24 10:09:28,239:DEBUG:diff parser start
+2021-04-24 10:09:28,240:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:28,240:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:28,242:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:28,242:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:28,243:DEBUG:diff parser end
+2021-04-24 10:09:28,443:DEBUG:diff parser start
+2021-04-24 10:09:28,443:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:28,443:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:28,444:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:28,444:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:28,444:DEBUG:diff parser end
+2021-04-24 10:09:28,546:DEBUG:diff parser start
+2021-04-24 10:09:28,546:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:28,546:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:28,546:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:28,547:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:28,547:DEBUG:diff parser end
+2021-04-24 10:09:28,768:DEBUG:diff parser start
+2021-04-24 10:09:28,768:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:28,769:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:28,769:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:28,770:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:28,770:DEBUG:diff parser end
+2021-04-24 10:09:28,978:DEBUG:diff parser start
+2021-04-24 10:09:28,979:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:28,979:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:28,980:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:28,981:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:28,981:DEBUG:diff parser end
+2021-04-24 10:09:33,598:DEBUG:diff parser start
+2021-04-24 10:09:33,598:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:33,598:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:33,599:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:33,599:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:33,599:DEBUG:diff parser end
+2021-04-24 10:09:33,986:DEBUG:diff parser start
+2021-04-24 10:09:33,986:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:09:33,986:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:33,987:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:33,989:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:09:33,989:DEBUG:diff parser end
+2021-04-24 10:09:36,882:DEBUG:diff parser start
+2021-04-24 10:09:36,883:DEBUG:line_lengths old: 4; new: 1
+2021-04-24 10:09:36,883:DEBUG:-> code[replace] old[1:4] new[1:1]
+2021-04-24 10:09:36,883:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:09:36,884:DEBUG:diff parser end
+2021-04-24 10:09:37,068:DEBUG:diff parser start
+2021-04-24 10:09:37,069:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:09:37,069:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:09:37,069:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:09:37,069:DEBUG:diff parser end
+2021-04-24 10:09:37,376:DEBUG:diff parser start
+2021-04-24 10:09:37,377:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:09:37,377:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:09:37,378:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:09:37,378:DEBUG:diff parser end
+2021-04-24 10:09:46,435:DEBUG:diff parser start
+2021-04-24 10:09:46,435:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:09:46,435:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:09:46,435:DEBUG:diff parser end
+2021-04-24 10:09:50,772:DEBUG:diff parser start
+2021-04-24 10:09:50,773:DEBUG:line_lengths old: 1; new: 4
+2021-04-24 10:09:50,773:DEBUG:-> code[replace] old[1:1] new[1:4]
+2021-04-24 10:09:50,774:DEBUG:parse_part from 1 to 4 (to 3 in part parser)
+2021-04-24 10:09:50,775:DEBUG:diff parser end
+2021-04-24 10:09:56,718:DEBUG:diff parser start
+2021-04-24 10:09:56,719:DEBUG:line_lengths old: 4; new: 5
+2021-04-24 10:09:56,719:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:09:56,723:DEBUG:parse_part from 1 to 5 (to 4 in part parser)
+2021-04-24 10:09:56,723:DEBUG:-> code[replace] old[4:4] new[4:5]
+2021-04-24 10:09:56,724:DEBUG:diff parser end
+2021-04-24 10:09:56,912:DEBUG:diff parser start
+2021-04-24 10:09:56,912:DEBUG:line_lengths old: 5; new: 5
+2021-04-24 10:09:56,912:DEBUG:-> code[equal] old[1:4] new[1:4]
+2021-04-24 10:09:56,912:DEBUG:copy old[2:4] new[1:4]
+2021-04-24 10:09:56,912:DEBUG:-> code[replace] old[5:5] new[5:5]
+2021-04-24 10:09:56,913:DEBUG:parse_part from 5 to 5 (to 4 in part parser)
+2021-04-24 10:09:56,913:DEBUG:diff parser end
+2021-04-24 10:09:57,052:DEBUG:diff parser start
+2021-04-24 10:09:57,053:DEBUG:line_lengths old: 5; new: 5
+2021-04-24 10:09:57,053:DEBUG:-> code[equal] old[1:4] new[1:4]
+2021-04-24 10:09:57,054:DEBUG:copy old[2:4] new[1:4]
+2021-04-24 10:09:57,054:DEBUG:-> code[replace] old[5:5] new[5:5]
+2021-04-24 10:09:57,054:DEBUG:parse_part from 5 to 5 (to 4 in part parser)
+2021-04-24 10:09:57,055:DEBUG:diff parser end
+2021-04-24 10:09:58,217:DEBUG:diff parser start
+2021-04-24 10:09:58,218:DEBUG:line_lengths old: 5; new: 5
+2021-04-24 10:09:58,218:DEBUG:-> code[equal] old[1:4] new[1:4]
+2021-04-24 10:09:58,218:DEBUG:copy old[2:4] new[1:4]
+2021-04-24 10:09:58,219:DEBUG:-> code[replace] old[5:5] new[5:5]
+2021-04-24 10:09:58,219:DEBUG:parse_part from 5 to 5 (to 4 in part parser)
+2021-04-24 10:09:58,220:DEBUG:diff parser end
+2021-04-24 10:09:59,230:DEBUG:diff parser start
+2021-04-24 10:09:59,231:DEBUG:line_lengths old: 5; new: 5
+2021-04-24 10:09:59,231:DEBUG:-> code[equal] old[1:4] new[1:4]
+2021-04-24 10:09:59,231:DEBUG:copy old[2:4] new[1:4]
+2021-04-24 10:09:59,231:DEBUG:-> code[replace] old[5:5] new[5:5]
+2021-04-24 10:09:59,231:DEBUG:parse_part from 5 to 5 (to 4 in part parser)
+2021-04-24 10:09:59,232:DEBUG:diff parser end
+2021-04-24 10:10:31,286:DEBUG:diff parser start
+2021-04-24 10:10:31,287:DEBUG:line_lengths old: 5; new: 2
+2021-04-24 10:10:31,287:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:31,287:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:31,287:DEBUG:-> code[replace] old[2:5] new[2:2]
+2021-04-24 10:10:31,287:DEBUG:diff parser end
+2021-04-24 10:10:31,399:DEBUG:diff parser start
+2021-04-24 10:10:31,400:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:10:31,400:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:31,400:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:31,401:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:10:31,401:DEBUG:diff parser end
+2021-04-24 10:10:31,604:DEBUG:diff parser start
+2021-04-24 10:10:31,605:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:10:31,606:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:31,606:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:31,606:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:10:31,606:DEBUG:diff parser end
+2021-04-24 10:10:31,793:DEBUG:diff parser start
+2021-04-24 10:10:31,794:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:10:31,794:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:31,795:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:31,795:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:10:31,795:DEBUG:diff parser end
+2021-04-24 10:10:31,965:DEBUG:diff parser start
+2021-04-24 10:10:31,965:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:10:31,966:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:31,966:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:31,966:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:10:31,966:DEBUG:diff parser end
+2021-04-24 10:10:33,949:DEBUG:diff parser start
+2021-04-24 10:10:33,949:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:10:33,949:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:33,950:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:33,950:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:10:33,950:DEBUG:diff parser end
+2021-04-24 10:10:34,412:DEBUG:diff parser start
+2021-04-24 10:10:34,412:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:10:34,412:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:34,412:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:34,413:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:10:34,413:DEBUG:diff parser end
+2021-04-24 10:10:34,562:DEBUG:diff parser start
+2021-04-24 10:10:34,562:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:10:34,562:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:34,563:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:34,563:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:10:34,563:DEBUG:diff parser end
+2021-04-24 10:10:34,901:DEBUG:diff parser start
+2021-04-24 10:10:34,902:DEBUG:line_lengths old: 2; new: 2
+2021-04-24 10:10:34,902:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:34,902:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+2021-04-24 10:10:34,902:DEBUG:-> code[replace] old[2:2] new[2:2]
+2021-04-24 10:10:34,902:DEBUG:diff parser end
+2021-04-24 10:10:37,855:DEBUG:diff parser start
+2021-04-24 10:10:37,855:DEBUG:line_lengths old: 2; new: 3
+2021-04-24 10:10:37,855:DEBUG:-> code[equal] old[1:1] new[1:1]
+2021-04-24 10:10:37,856:DEBUG:parse_part from 1 to 2 (to 2 in part parser)
+2021-04-24 10:10:37,856:DEBUG:-> code[replace] old[2:2] new[2:3]
+2021-04-24 10:10:37,856:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:37,856:DEBUG:diff parser end
+2021-04-24 10:10:38,539:DEBUG:diff parser start
+2021-04-24 10:10:38,540:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:38,540:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:38,540:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:38,540:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:38,541:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:38,541:DEBUG:diff parser end
+2021-04-24 10:10:38,782:DEBUG:diff parser start
+2021-04-24 10:10:38,783:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:38,783:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:38,783:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:38,783:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:38,784:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:38,784:DEBUG:diff parser end
+2021-04-24 10:10:38,997:DEBUG:diff parser start
+2021-04-24 10:10:38,997:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:38,997:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:38,997:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:38,997:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:38,998:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:38,998:DEBUG:diff parser end
+2021-04-24 10:10:39,721:DEBUG:diff parser start
+2021-04-24 10:10:39,722:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:39,722:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:39,722:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:39,723:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:39,723:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:39,723:DEBUG:diff parser end
+2021-04-24 10:10:41,233:DEBUG:diff parser start
+2021-04-24 10:10:41,234:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:41,234:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:41,234:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:41,234:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:41,234:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:41,234:DEBUG:diff parser end
+2021-04-24 10:10:41,403:DEBUG:diff parser start
+2021-04-24 10:10:41,404:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:41,404:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:41,404:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:41,404:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:41,405:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:41,405:DEBUG:diff parser end
+2021-04-24 10:10:41,675:DEBUG:diff parser start
+2021-04-24 10:10:41,675:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:41,676:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:41,676:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:41,676:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:41,676:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:41,676:DEBUG:diff parser end
+2021-04-24 10:10:55,261:DEBUG:diff parser start
+2021-04-24 10:10:55,262:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:55,262:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:55,262:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:55,263:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:55,264:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:55,264:DEBUG:diff parser end
+2021-04-24 10:10:55,415:DEBUG:diff parser start
+2021-04-24 10:10:55,416:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:55,417:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:55,417:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:55,418:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:55,418:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:55,419:DEBUG:diff parser end
+2021-04-24 10:10:55,626:DEBUG:diff parser start
+2021-04-24 10:10:55,626:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:55,626:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:55,627:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:55,627:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:55,627:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:55,627:DEBUG:diff parser end
+2021-04-24 10:10:55,946:DEBUG:diff parser start
+2021-04-24 10:10:55,946:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:10:55,946:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:10:55,946:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:10:55,947:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:10:55,947:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:10:55,947:DEBUG:diff parser end
+2021-04-24 10:11:00,313:DEBUG:diff parser start
+2021-04-24 10:11:00,313:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:11:00,313:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:11:00,313:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:00,314:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:11:00,314:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:11:00,314:DEBUG:diff parser end
+2021-04-24 10:11:00,440:DEBUG:diff parser start
+2021-04-24 10:11:00,440:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:11:00,441:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:11:00,441:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:00,441:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:11:00,442:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:11:00,442:DEBUG:diff parser end
+2021-04-24 10:11:00,696:DEBUG:diff parser start
+2021-04-24 10:11:00,697:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:11:00,697:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:11:00,697:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:00,697:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:11:00,697:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:11:00,698:DEBUG:diff parser end
+2021-04-24 10:11:00,853:DEBUG:diff parser start
+2021-04-24 10:11:00,853:DEBUG:line_lengths old: 3; new: 3
+2021-04-24 10:11:00,853:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:11:00,854:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:00,854:DEBUG:-> code[replace] old[3:3] new[3:3]
+2021-04-24 10:11:00,854:DEBUG:parse_part from 3 to 3 (to 2 in part parser)
+2021-04-24 10:11:00,854:DEBUG:diff parser end
+2021-04-24 10:11:19,283:DEBUG:zain Asalm
+2021-04-24 10:11:30,831:DEBUG:zain Asalm
+2021-04-24 10:11:43,220:DEBUG:diff parser start
+2021-04-24 10:11:43,220:DEBUG:line_lengths old: 3; new: 4
+2021-04-24 10:11:43,220:DEBUG:-> code[equal] old[1:2] new[1:2]
+2021-04-24 10:11:43,220:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:43,220:DEBUG:-> code[replace] old[3:3] new[3:4]
+2021-04-24 10:11:43,221:DEBUG:parse_part from 3 to 4 (to 3 in part parser)
+2021-04-24 10:11:43,221:DEBUG:diff parser end
+2021-04-24 10:11:43,412:DEBUG:diff parser start
+2021-04-24 10:11:43,412:DEBUG:line_lengths old: 4; new: 4
+2021-04-24 10:11:43,412:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:11:43,412:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:43,413:DEBUG:parse_part from 3 to 4 (to 3 in part parser)
+2021-04-24 10:11:43,413:DEBUG:-> code[replace] old[4:4] new[4:4]
+2021-04-24 10:11:43,413:DEBUG:diff parser end
+2021-04-24 10:11:45,349:DEBUG:zain Asalm
+2021-04-24 10:11:55,194:DEBUG:diff parser start
+2021-04-24 10:11:55,194:DEBUG:line_lengths old: 4; new: 5
+2021-04-24 10:11:55,194:DEBUG:-> code[equal] old[1:3] new[1:3]
+2021-04-24 10:11:55,195:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:55,196:DEBUG:parse_part from 3 to 5 (to 4 in part parser)
+2021-04-24 10:11:55,196:DEBUG:-> code[replace] old[4:4] new[4:5]
+2021-04-24 10:11:55,196:DEBUG:diff parser end
+2021-04-24 10:11:55,315:DEBUG:diff parser start
+2021-04-24 10:11:55,316:DEBUG:line_lengths old: 5; new: 5
+2021-04-24 10:11:55,316:DEBUG:-> code[equal] old[1:4] new[1:4]
+2021-04-24 10:11:55,316:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:55,317:DEBUG:parse_part from 3 to 5 (to 4 in part parser)
+2021-04-24 10:11:55,318:DEBUG:-> code[replace] old[5:5] new[5:5]
+2021-04-24 10:11:55,318:DEBUG:diff parser end
+2021-04-24 10:11:55,583:DEBUG:diff parser start
+2021-04-24 10:11:55,583:DEBUG:line_lengths old: 5; new: 5
+2021-04-24 10:11:55,583:DEBUG:-> code[equal] old[1:4] new[1:4]
+2021-04-24 10:11:55,583:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:55,584:DEBUG:parse_part from 3 to 5 (to 4 in part parser)
+2021-04-24 10:11:55,584:DEBUG:-> code[replace] old[5:5] new[5:5]
+2021-04-24 10:11:55,585:DEBUG:diff parser end
+2021-04-24 10:11:57,389:DEBUG:diff parser start
+2021-04-24 10:11:57,390:DEBUG:line_lengths old: 5; new: 5
+2021-04-24 10:11:57,390:DEBUG:-> code[equal] old[1:4] new[1:4]
+2021-04-24 10:11:57,391:DEBUG:copy old[2:2] new[1:2]
+2021-04-24 10:11:57,392:DEBUG:parse_part from 3 to 5 (to 4 in part parser)
+2021-04-24 10:11:57,392:DEBUG:-> code[replace] old[5:5] new[5:5]
+2021-04-24 10:11:57,392:DEBUG:diff parser end
+2021-04-24 10:11:57,402:DEBUG:pickle loaded: /home/iffishells/anaconda3/lib/python3.8/types.py
+2021-04-24 10:11:57,408:DEBUG:pickle loaded: /home/iffishells/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/types.pyi
+2021-04-24 10:13:08,661:DEBUG:diff parser start
+2021-04-24 10:13:08,661:DEBUG:line_lengths old: 5; new: 1
+2021-04-24 10:13:08,661:DEBUG:-> code[replace] old[1:5] new[1:1]
+2021-04-24 10:13:08,661:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:08,661:DEBUG:diff parser end
+2021-04-24 10:13:08,794:DEBUG:diff parser start
+2021-04-24 10:13:08,794:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:13:08,794:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:13:08,794:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:08,795:DEBUG:diff parser end
+2021-04-24 10:13:08,925:DEBUG:diff parser start
+2021-04-24 10:13:08,926:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:13:08,926:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:13:08,926:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:08,926:DEBUG:diff parser end
+2021-04-24 10:13:10,680:DEBUG:diff parser start
+2021-04-24 10:13:10,680:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:13:10,680:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:13:10,681:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:10,681:DEBUG:diff parser end
+2021-04-24 10:13:10,942:DEBUG:diff parser start
+2021-04-24 10:13:10,942:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:13:10,942:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:13:10,942:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:10,942:DEBUG:diff parser end
+2021-04-24 10:13:11,379:DEBUG:diff parser start
+2021-04-24 10:13:11,379:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:13:11,380:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:13:11,380:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:11,380:DEBUG:diff parser end
+2021-04-24 10:13:12,193:DEBUG:diff parser start
+2021-04-24 10:13:12,194:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:13:12,194:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:13:12,194:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:12,194:DEBUG:diff parser end
+2021-04-24 10:13:12,629:DEBUG:diff parser start
+2021-04-24 10:13:12,629:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:13:12,629:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:13:12,629:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:12,630:DEBUG:diff parser end
+2021-04-24 10:13:12,798:DEBUG:diff parser start
+2021-04-24 10:13:12,798:DEBUG:line_lengths old: 1; new: 1
+2021-04-24 10:13:12,798:DEBUG:-> code[replace] old[1:1] new[1:1]
+2021-04-24 10:13:12,799:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+2021-04-24 10:13:12,799:DEBUG:diff parser end
+2021-04-24 10:15:01,662:DEBUG:zain Asalm
+2021-04-24 10:15:19,820:DEBUG:zain Asalm
